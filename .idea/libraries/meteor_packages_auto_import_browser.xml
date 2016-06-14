@@ -144,8 +144,10 @@
         <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/launch-screen/1.0.4/web.browser/default-behavior.js" />
         <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/launch-screen/1.0.4/web.browser/mobile-launch-screen.js" />
         <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/callback-hook/1.0.4/web.browser/hook.js" />
+        <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/ecwyne_mathjs/2.7.0/web.browser/mathjs/dist/math.min.js" />
         <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/observe-sequence/1.0.7/web.browser/observe_sequence.js" />
         <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/check/1.1.0/web.browser/match.js" />
+        <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/ecwyne_mathjs/2.7.0/web.browser/export-mathjs.js" />
         <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/rate-limit/1.0.0/web.browser/rate-limit.js" />
         <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/ordered-dict/1.0.4/web.browser/ordered_dict.js" />
         <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/service-configuration/1.0.5/web.browser/service_configuration_common.js" />
@@ -298,8 +300,10 @@
       <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/launch-screen/1.0.4/web.browser/default-behavior.js" />
       <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/launch-screen/1.0.4/web.browser/mobile-launch-screen.js" />
       <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/callback-hook/1.0.4/web.browser/hook.js" />
+      <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/ecwyne_mathjs/2.7.0/web.browser/mathjs/dist/math.min.js" />
       <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/observe-sequence/1.0.7/web.browser/observe_sequence.js" />
       <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/check/1.1.0/web.browser/match.js" />
+      <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/ecwyne_mathjs/2.7.0/web.browser/export-mathjs.js" />
       <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/rate-limit/1.0.0/web.browser/rate-limit.js" />
       <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/ordered-dict/1.0.4/web.browser/ordered_dict.js" />
       <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/service-configuration/1.0.5/web.browser/service_configuration_common.js" />

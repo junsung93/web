@@ -21,14 +21,7 @@
         {{>loginButtons}}
         {{>yield}}
         <div id="footer">
-            <audio id="audio" controls>
-                <source src="http://www.w3schools.com/html/horse.mp3" type="audio/mpeg">
-            </audio>
-            <div id="progress">
-                <div id="progressBar"></div>
-            </div>
-            <button id="play">Play</button>
-            <button id="pause">Pause</button>
+            {{>player}}
         </div>
     </div>
 </template>
