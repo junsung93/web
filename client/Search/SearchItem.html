@@ -1,0 +1,8 @@
+<template name="SearchItem">
+    <span class="search_item">
+      {{name}} Album : {{album}} Artist : {{artist}}
+        {{#if currentUser}}
+        <button class="search_add" name="add">추가</button>
+        {{/if}}
+    </span>
+</template>
